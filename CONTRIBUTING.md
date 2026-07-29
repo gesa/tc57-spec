@@ -16,6 +16,10 @@ to address minor defects are also welcome.
 For larger non-trivial changes please review the [process
 documentation](docs/Process.md) before making contributions.
 
+We encourage anyone interested in TC57's work to engage in the PR review
+process, and have provided a [guide](docs/ReviewGuide.md) to help reviewers
+provide great feedback to proposal authors and sponsors.
+
 ## Events Calendar
 
 TC57 maintains a [HLSL Community Calendar](https://calendar.google.com/calendar/u/0?cid=YzY5MDRmNzk1NGVlMTE5OGYyZjdhN2EwOTNmN2JlMTU4YzU3MzFjNTJhNzhkMjAyZjM1NThkMTMwMzRmOGUwY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
